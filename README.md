@@ -3,7 +3,7 @@
 Game of Life GUI that displays the game of life and allows customization.
 Run the GameOfLifeDisplayFile to start the GUI
 
-**FEATURES**
+- **FEATURES**
 	- Can use mouse to set alive cells on the board
 	  - Clicking on a cell will toggle it to the opposite state
 	  - Clicking and dragging will allow user to "paint" alive cells on the board
